@@ -2,6 +2,8 @@
 
 An app for ITF Taekwondo practitioners.
 
+Note, this is not an official app.
+
 Feel free to contribute.
 
 Intended features are:
